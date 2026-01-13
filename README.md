@@ -12,8 +12,8 @@ To build a machine learning model that accurately predicts house rent prices bas
 ##  Dataset Description
 
 ### Dataset Source
-- ✔ Self-collected using **Google Forms**
-- ✔ Data collected from people living in **different areas of Pune**
+-  Self-collected using **Google Forms**
+-  Data collected from people living in **different areas of Pune**
 
 ### Dataset Size
 - **Total Records:** ~20,000
@@ -71,5 +71,5 @@ Both models were trained and compared to improve prediction accuracy.
 
 ---
 
-## 📂 Project Structure
+
 
